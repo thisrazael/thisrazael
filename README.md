@@ -10,3 +10,5 @@
 - belajar coding sejak 2023
 - pemain minecraft sejati 💬
 - hobi gw ngegame
+
+## nickname : `RazaelNothing`
